@@ -121,11 +121,11 @@ location_interest: "NYC"
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=decoder3064&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=decoder3064&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=decoder3064&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=decoder3064&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoder3064&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=decoder3064&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoder3064&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=decoder3064&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 
 </div>
 
