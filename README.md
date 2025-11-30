@@ -125,10 +125,10 @@ location_interest: "NYC"
 
 <p align="center">
   <a href="https://github.com/decoder3064">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=decoder3064&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=decoder3064&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/decoder3064">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=decoder3064&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoder3064&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
   </a>
 </p>
 
