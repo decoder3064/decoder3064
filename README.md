@@ -90,11 +90,15 @@ CalHacks 12.0   → Led team, built working AI collab prototype in 36h
 
 <div align="center">
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=decoder3064&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=decoder3064&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+```
+                         . . . . . . . . . . . . .
+                       .                           .
+                     .    > building something?      .
+                   .        let's talk.                .
+                     .                               .
+                       .  .  .  .  .  .  .  .  .  .
+```
 
-![Snake](https://raw.githubusercontent.com/decoder3064/decoder3064/output/github-contribution-grid-snake-dark.svg)
-
-*Open to collaborating on AI/NLP projects, cross-border applications, and social impact tech in Latin America.*
+*Open to collaborating on AI/NLP projects, scalable systems, and social impact tech.*
 
 </div>
