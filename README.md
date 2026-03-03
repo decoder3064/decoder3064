@@ -73,7 +73,7 @@ Currently: building at **Vitrinnea**, finishing my CS degree at **Colgate**, and
 
 ---
 
-<div align="center">
+<div>
 
 ```
     __.-._
