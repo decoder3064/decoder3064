@@ -36,10 +36,6 @@ Currently: building at **Vitrinnea**, finishing my CS degree at **Colgate**, and
 </td>
 </tr></table>
 
-Builder at heart. I write backend systems, automate things that shouldn't be manual, and build tools that cross borders — literally. Currently shipping auth microservices and support automation at **Vitrinnea** (Guatemala & El Salvador ops), wrapping up my CS degree at **Colgate**, and targeting **New Grad SWE roles in NYC for Summer 2026**.
-
-I speak Spanish, English, Italian, and enough Python to get in trouble.
-
 ---
 
 ### `$ cat stack.json`
@@ -63,35 +59,30 @@ I speak Spanish, English, Italian, and enough Python to get in trouble.
 
 ### `$ ls projects/`
 
-**[Doryo](https://github.com/decoder3064/doryo)** — AI Collaboration Platform
+**[Doryo](https://github.com/decoder3064/doryo)** - AI Collaboration Platform
 > Led a team of 4 at CalHacks 12.0. Built a real-time workspace where multiple users interact with AI agents together - sub-second latency, Firebase sync, FastAPI + Letta agent backend. Delivered in 36 hours.
 `React` `Firebase` `FastAPI` `Letta` `Composio`
 
-**[Pulse](https://github.com/decoder3064/pulse)** — Task Automation System
+**[Pulse](https://github.com/decoder3064/pulse)** - Task Automation System
 > WhatsApp-powered task management for consulting ops. Celery + Redis for async scheduling, Twilio for messaging, PostgreSQL for persistence.
 `Python` `Flask` `Celery` `Redis` `PostgreSQL` `Twilio`
 
-**[EntreRunners](https://github.com/decoder3064/entrerunners)** — Community Platform
+**[EntreRunners](https://github.com/decoder3064/entrerunners)** - Community Platform
 > Full-stack platform for a 24.5K-member running club. Google Drive API for dynamic gallery, Nodemailer for automated emails, 6+ responsive breakpoints.
 `Node.js` `Express` `Google APIs`
-
----
 
 ---
 
 <div align="center">
 
 ```
-                     ¡
-                    \o/
-                  ───╋──╮
-                    /╰──┘
-          ╭─────────╯
-    ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋
-  ≋   ≋   ≋   ≋   ≋   ≋   ≋   ≋   ≋   ≋
-≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋
-```
+   __.-._     "N+1 queries,
+    '-._"7'     the path to the
+     /'.-c        dark side they are."
+     |  /T
+    _)_/LI
 
-*Open to collaborating on AI/NLP projects, scalable systems, and social impact tech.*
+  · · · open to collabs on systems, AI & social impact · · ·
+```
 
 </div>
