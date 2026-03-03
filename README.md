@@ -76,11 +76,11 @@ Currently: building at **Vitrinnea**, finishing my CS degree at **Colgate**, and
 <div align="center">
 
 ```
-   __.-._     "N+1 queries,
-    '-._"7'     the path to the
-     /'.-c        dark side they are."
-     |  /T
-    _)_/LI
+    __.-._
+    '-._"7'   "It works on my machine.
+     /'.-c      Ship the machine,
+     |  /T       we must."
+snd _)_/LI
 
   · · · open to collabs on systems, AI & social impact · · ·
 ```
