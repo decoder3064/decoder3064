@@ -7,7 +7,7 @@
 ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝     ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚══════╝
 ```
 
-**Software Engineer · CS @ Colgate '26 · El Salvador → Guatemala → NYC**
+**Software Engineer · CS @ Colgate '26**
 
 [![Email](https://img.shields.io/badge/darreyes3064@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:darreyes3064@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/david--reyes3064-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-reyes3064)
@@ -27,9 +27,11 @@
 </pre></td>
 <td valign="middle">
 
-Builder at heart. I write backend systems, automate things that shouldn't be manual, and build tools that cross borders — literally. Currently shipping auth microservices and support automation at **Vitrinnea** (Guatemala & El Salvador ops), wrapping up my CS degree at **Colgate**, and targeting **New Grad SWE roles in NYC for Summer 2026**.
+I ship fast, obsess over clean architecture, and go deep on whatever catches my curiosity. I like building things that people actually use - systems that scale, workflows that remove the boring stuff, and products that make a real difference.
 
-I speak Spanish, English, Italian, and enough Python to get in trouble.
+When I'm not in a codebase I'm listening to music, gaming, or somewhere new picking up on how people live and think. I speak Spanish, English, Italian, and enough Python to get in trouble.
+
+Currently: building at **Vitrinnea**, finishing my CS degree at **Colgate**, and looking for my next thing.
 
 </td>
 </tr></table>
@@ -62,7 +64,7 @@ I speak Spanish, English, Italian, and enough Python to get in trouble.
 ### `$ ls projects/`
 
 **[Doryo](https://github.com/decoder3064/doryo)** — AI Collaboration Platform
-> Led a team of 4 at CalHacks 12.0. Built a real-time workspace where multiple users interact with AI agents together — sub-second latency, Firebase sync, FastAPI + Letta agent backend. Delivered in 36 hours.
+> Led a team of 4 at CalHacks 12.0. Built a real-time workspace where multiple users interact with AI agents together - sub-second latency, Firebase sync, FastAPI + Letta agent backend. Delivered in 36 hours.
 `React` `Firebase` `FastAPI` `Letta` `Composio`
 
 **[Pulse](https://github.com/decoder3064/pulse)** — Task Automation System
@@ -70,7 +72,7 @@ I speak Spanish, English, Italian, and enough Python to get in trouble.
 `Python` `Flask` `Celery` `Redis` `PostgreSQL` `Twilio`
 
 **[EntreRunners](https://github.com/decoder3064/entrerunners)** — Community Platform
-> Full-stack platform for a 24.5K-member running club in El Salvador. Google Drive API for dynamic gallery, Nodemailer for automated emails, 6+ responsive breakpoints.
+> Full-stack platform for a 24.5K-member running club. Google Drive API for dynamic gallery, Nodemailer for automated emails, 6+ responsive breakpoints.
 `Node.js` `Express` `Google APIs`
 
 ---
@@ -88,8 +90,8 @@ CalHacks 12.0   → Led team, built working AI collab prototype in 36h
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=decoder3064&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=decoder3064&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=decoder3064&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=decoder3064&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![Snake](https://raw.githubusercontent.com/decoder3064/decoder3064/output/github-contribution-grid-snake-dark.svg)
 
