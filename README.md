@@ -77,26 +77,19 @@ I speak Spanish, English, Italian, and enough Python to get in trouble.
 
 ---
 
-### `$ git log --oneline`
-
-```
-Vitrinnea       → Auth microservice, bulk ops, support bot (∼90% deflection rate)
-EntreRunners    → Freelance: shipped production platform in 1 month
-Colgate TA      → OOP (Java), mentored 10+ students weekly
-CalHacks 12.0   → Led team, built working AI collab prototype in 36h
-```
-
 ---
 
 <div align="center">
 
 ```
-                         . . . . . . . . . . . . .
-                       .                           .
-                     .    > building something?      .
-                   .        let's talk.                .
-                     .                               .
-                       .  .  .  .  .  .  .  .  .  .
+                     ¡
+                    \o/
+                  ───╋──╮
+                    /╰──┘
+          ╭─────────╯
+    ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋ ≋
+  ≋   ≋   ≋   ≋   ≋   ≋   ≋   ≋   ≋   ≋
+≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋  ≋
 ```
 
 *Open to collaborating on AI/NLP projects, scalable systems, and social impact tech.*
