@@ -26,13 +26,8 @@
    ╱ ╲
 </pre></td>
 <td valign="middle">
-
-I ship fast, obsess over clean architecture, and go deep on whatever catches my curiosity. I like building things that people actually use - systems that scale, workflows that remove the boring stuff, and products that make a real difference.
-
-When I'm not in a codebase I'm listening to music, gaming, or somewhere new picking up on how people live and think. I speak Spanish, English, Italian, and enough Python to get in trouble.
-
-Currently: building at **Vitrinnea**, finishing my CS degree at **Colgate**, and looking for my next thing.
-
+ 
+Hello, traveler. Come take a look at my magnificent, awesome, and astounding GitHub. I hope you come prepared for the sheer talent you're gonna see here. I vibe-code sometimes :). 
 </td>
 </tr></table>
 
